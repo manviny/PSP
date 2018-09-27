@@ -4,7 +4,7 @@
 ## Unidad 1. Refuerzo de [Java](https://www.youtube.com/watch?v=Mmmrp8PRLOo&t=60s) (Java reinforcement). 6
 
 - Asociación de clases 
-- Herencia y polimorfismo 
+- [Herencia](https://www.youtube.com/watch?v=MG0hOuk6fqU) y [polimorfismo](https://www.youtube.com/watch?v=8HDLKH3KF2U) 
 - Interfaces
 - Excepciones 
 - Anotaciones
