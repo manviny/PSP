@@ -1,6 +1,6 @@
 # PSP
 
-## Unidad 1. Refuerzo de Java (Java reinforcement)
+## Unidad 1. Refuerzo de Java (Java reinforcement). 6
 
 - Asociación de clases 
 - Herencia y polimorfismo 
@@ -13,7 +13,7 @@
 - Introducción a JavaFX para desarrollo de interfaces gráficas
 - Algunos conceptos avanzados de JavaFX: diálogos, CSS, animaciones, múltiples vistas...
 
-## Unidad 2. Programación concurrente (Concurrent programming)
+## Unidad 2. Programación concurrente (Concurrent programming). 4
 
 - Elementos de la programación concurrente.
 - Hilos y procesos. Estados, características y diferencias
@@ -25,20 +25,20 @@
 - Otros aspectos avanzados: hilos demonio, mecanismos avanzados de sincronización, frameworks...
 - Uso de hilos en aplicaciones gráficas
 
-## Unidad 3. Desarrollo de servicios REST con Node.js (REST service development with Node.js)
+## Unidad 3. Desarrollo de servicios REST con Node.js (REST service development with Node.js). 4
 
 - Introducción e instalación de Node.js
 - Instalación de módulos. El gestor de paquetes npm 
 - Instalación de MongoDB y acceso al servidor desde Node.js 
 - Desarrollo de servicios REST con Node y MongoDB
 
-## Unidad 4. Acceso a servicios desde Java (Service access from Java)
+## Unidad 4. Acceso a servicios desde Java (Service access from Java). 4
 
 - Llamada y uso de servicios web desde Java 
 - Estructura de los comandos REST básicos 
 - Autenticación y cifrado
 
-## Unidad 5. Otras comunicaciones cliente-servidor (Other client-server communications) 
+## Unidad 5. Otras comunicaciones cliente-servidor (Other client-server communications). 2
 
 - Sockets en Java. Uso básico
 - Sockets TCP vs Sockets UDP
