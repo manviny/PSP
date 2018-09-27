@@ -2,10 +2,10 @@
 
 ## 1.- FIFS ( First In First Served )
 
-### Como funciona
+#### Como funciona
  Este algoritmo ...
-### Ventajas
-### Desventajas
+#### Ventajas
+#### Desventajas
 
 ## 2.- SJF ( Shortest Job First )
 ### Como funciona
