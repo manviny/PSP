@@ -1,2 +1,2 @@
 # PSP
-[planifica]( PSP/Planificación de procesos.md )
+[planifica](PSP/Planificación de procesos.md)
