@@ -1,7 +1,7 @@
 
 # 1º Trimestre
 
-## Unidad 1. Refuerzo de Java (Java reinforcement). 6
+## Unidad 1. Refuerzo de [Java](https://www.youtube.com/watch?v=Mmmrp8PRLOo&t=60s) (Java reinforcement). 6
 
 - Asociación de clases 
 - Herencia y polimorfismo 
