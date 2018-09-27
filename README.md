@@ -1,4 +1,5 @@
-# PSP
+
+# 1º Trimestre
 
 ## Unidad 1. Refuerzo de Java (Java reinforcement). 6
 
@@ -24,6 +25,8 @@
 - Mecanismos de sincronización básicos
 - Otros aspectos avanzados: hilos demonio, mecanismos avanzados de sincronización, frameworks...
 - Uso de hilos en aplicaciones gráficas
+
+# 2º Trimestre
 
 ## Unidad 3. Desarrollo de servicios REST con Node.js (REST service development with Node.js). 4
 
