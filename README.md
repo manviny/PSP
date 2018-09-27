@@ -12,7 +12,7 @@
 - Acceso a ficheros
 - Algunas novedades de Java 8 (funciones lambda, uso de streams, etc.) 
 - Introducción a JavaFX para desarrollo de interfaces gráficas
-- Algunos conceptos avanzados de JavaFX: diálogos, CSS, animaciones, múltiples vistas...
+- [Algunos conceptos avanzados de JavaFX: diálogos, CSS, animaciones, múltiples vistas...](https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
 
 ## Unidad 2. Programación concurrente (Concurrent programming). 4
 
