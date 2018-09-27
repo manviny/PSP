@@ -10,5 +10,5 @@
 - [Clase Scanner en Java, entrada desde consola](http://empezandoconjava.blogspot.com/2012/01/clase-scanner-en-java.html)
 - [JOptionPane, entrada desde ventana](http://www.edu4java.com/es/java/joptionpane-showmessagedialog-showinputdialog.html)
 
-
-
+### Clases interesantes
+- [Clase Math](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)
