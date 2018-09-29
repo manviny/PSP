@@ -1,6 +1,9 @@
 
-### Videotutoriales
+### Videotutoriales Java
 - [Canal Java 105 videos](https://www.youtube.com/watch?v=9DE_Z4L8urI&list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K)  
+
+### JavaFx
+- [Descarga de Scene Builder desde Oracle](https://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html)
 
 ### Tipos de datos
 - [Tipos de datos primitivos](https://www.abrirllave.com/java/tipos-de-datos-primitivos.php)
