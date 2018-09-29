@@ -54,4 +54,4 @@
 - Otros tipos de comunicación por sockets. Envíos multicast y de objetos complejos (serialización)
 - Java y FTP
 
-[planifica](https://github.com/manviny/PSP/blob/master/Planificaci%C3%B3n%20de%20procesos.md)
+[indice](https://github.com/manviny/PSP/blob/master/README.md#indice)
