@@ -4,7 +4,7 @@
 
 ### JavaFx
 - [Descarga de Scene Builder desde Oracle](https://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html)
-
+- [Video tutorial, crear cajas texto, etiquetas y CSS](https://www.youtube.com/watch?v=AKYnfYJxO8U&feature=youtu.be)
 ### Tipos de datos
 - [Tipos de datos primitivos](https://www.abrirllave.com/java/tipos-de-datos-primitivos.php)
 - Datos Object aceptan valor null
