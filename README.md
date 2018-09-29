@@ -1,6 +1,6 @@
 
 # INDICE
-[Programación del curso](https://github.com/manviny/PSP/blob/master/README.md#programaci%C3%93n)
+- [Programación del curso](https://github.com/manviny/PSP/blob/master/README.md#programaci%C3%93n)
 
 # PROGRAMACIÓN
 
