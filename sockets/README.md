@@ -1,7 +1,10 @@
 # Ejemplo para crear un socket en Java
 
 ### A.- ejemplo básico servidor mediante socket, permite un usuario
-En este ejemplo podemos conectar al servidor mediante **telnet localhost 9090** [Server.java](https://github.com/manviny/PSP/blob/master/sockets/Server.java)
+En este ejemplo [Server.java](https://github.com/manviny/PSP/blob/master/sockets/Server.java), podemos conectar al servidor mediante: 
+```bash
+elnet localhost 9090
+```
 
 
 ### B.-  ejemplo multiserver, permite varios usuarios en cola
