@@ -3,7 +3,7 @@
 ### A.- ejemplo básico servidor mediante socket, permite un usuario
 En este ejemplo [Server.java](https://github.com/manviny/PSP/blob/master/sockets/Server.java), podemos conectar al servidor mediante: 
 ```bash
-elnet localhost 9090
+telnet localhost 9090
 ```
 
 
